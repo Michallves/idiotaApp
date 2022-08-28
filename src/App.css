@@ -5,13 +5,8 @@
   background-color: brown;
 }
 
-.container{
-  height: 100%;
-  display: flex;
-  text-align: center;
-}
-
 .title{
   font-size: 50px;
   color: white;
+  text-align: center;
 }
