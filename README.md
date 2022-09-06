@@ -1,4 +1,4 @@
-# `IDIOTA APP`
+# `IDIOTA`
 
 Uma pequena aplicação web desenvolvida em react e firebase hosting. 
 
