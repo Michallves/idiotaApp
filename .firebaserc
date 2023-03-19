@@ -1,6 +1,7 @@
 {
   "projects": {
-    "idyotapp": "idyotapp"
+    "idyotapp": "idyotapp",
+    "default": "idyotapp"
   },
   "targets": {},
   "etags": {}
