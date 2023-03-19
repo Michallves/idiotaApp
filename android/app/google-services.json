@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "707031254641",
+    "project_id": "idyotapp",
+    "storage_bucket": "idyotapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707031254641:android:5fe89d2cc00b88bd0ffdd0",
+        "android_client_info": {
+          "package_name": "com.example.idiotapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707031254641-1rtl9oj54e8bgl74fgk1c5eqe31t6r3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGQE21wIZAe1H9HUP4mK211AMb-F0s-44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707031254641-1rtl9oj54e8bgl74fgk1c5eqe31t6r3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
