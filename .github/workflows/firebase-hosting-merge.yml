@@ -26,4 +26,4 @@ jobs:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_IDYOTAPP }}'
           channelId: live
-          projectId: idyotapp
+          projectId: idiota-d289f
