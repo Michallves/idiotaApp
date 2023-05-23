@@ -1,6 +1,5 @@
 {
   "hosting": {
-    "site": "1diota",
     "public": "build/web",
     "ignore": [
       "firebase.json",

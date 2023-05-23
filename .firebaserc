@@ -1,9 +1,5 @@
 {
   "projects": {
-    "idyotapp": "idyotapp",
-    "default": "idyotapp",
-    "e": "idiota-d289f"
-  },
-  "targets": {},
-  "etags": {}
+    "default": "idiota-d289f"
+  }
 }
